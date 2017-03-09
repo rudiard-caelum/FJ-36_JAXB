@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:livro xmlns:ns2="http://caelum.com.br/fj36">
+    <codigo>ARQ</codigo>
+    <titulo>Arquitetura Java</titulo>
+    <nomeAutor>Paulo Silveira</nomeAutor>
+    <valor>29.90</valor>
+    <categoria>
+        <nome>TI</nome>
+    </categoria>
+    <dataLancamento>29/09/2016</dataLancamento>
+</ns2:livro>
